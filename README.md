@@ -7,7 +7,7 @@ This repository contains Nim's derivatives of the Go gopher.
 
 
 ## Instructions
-To export the images (as PNGs) under custom dimensions, use the SVGs in the `svg/` folder. I recommend [InkScape](https://inkscape.org/).
+To export the images (as PNG) with custom dimensions, use the SVG files in the `svg/` folder. I recommend [InkScape](https://inkscape.org/). It's free!
 
 
 ![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-100x73.png)
