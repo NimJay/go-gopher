@@ -1,11 +1,20 @@
 Go Gopher
 ===
 
-The Go gopher is the mascot of the Go programming language. It was originally designed by [Renee French](http://reneefrench.blogspot.ca/).
+The Go gopher is the mascot of the [Go programming language](https://golang.org/). The mascot was originally designed by [Renee French](http://reneefrench.blogspot.ca/).
 
 This repository contains Nim's derivatives of the Go gopher.
 
-![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-366x500.png)
+
+## Instructions
+To export the images (as PNGs) under custom dimensions, use the SVGs in the `svg/` folder. I recommend [InkScape](https://inkscape.org/).
+
+
+![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-100x73.png)
+![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-blue-100x73.png)
+![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-happy-100x73.png)
+![Go Gopher](https://raw.githubusercontent.com/NimJay/go-gopher/master/png/gopher-blue-happy-100x73.png)
+
 
 ## License
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
